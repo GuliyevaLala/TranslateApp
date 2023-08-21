@@ -24,6 +24,7 @@ function Languages({ language, onLanguageChange }) {
 const LANGUAGES = [
   { label: "Afrikaans", value: "af" },
   { label: "Arabic", value: "ar" },
+  { label: "Azerbaijan", value: "az" },
   { label: "French", value: "fr" },
   { label: "Hindi", value: "hi" },
   { label: "Japanese", value: "ja" },
@@ -31,7 +32,6 @@ const LANGUAGES = [
   { label: "Russian", value: "ru" },
   { label: "Simplified Chinese", value: "zh-CN" },
   { label: "Spanish", value: "es" },
-  { label: "Swahili", value: "sw" },
   { label: "Thai", value: "th" }
 ];
 
